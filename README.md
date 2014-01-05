@@ -56,4 +56,4 @@ Now you will have a similar kick ass side menu animation like you see on the Air
 If you want to see more of my plugins, visit [The Pete Design](http://www.thepetedesign.com/#design), or follow me on [Twitter](http://www.twitter.com/peachananr) and [Github](http://www.github.com/peachananr).
 
 ## Other Resources
-- Tutorial (Coming Soon)
+- [Tutorial](http://www.onextrapixel.com/2013/12/11/recreating-the-awesome-airbnb-ios7-menu-animation-for-the-web/)

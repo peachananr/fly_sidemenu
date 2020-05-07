@@ -2,10 +2,9 @@
 Recreate an Airbnb iOS7 App Menu Animation using CSS3 and jQuery
 Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](http://www.bucketlistly.com)
 
-[![Fly Side Menu](http://www.thepetedesign.com/images/fly_sidemenu_image.png "Fly Side Menu")](http://www.thepetedesign.com/demos/fly_sidemenu_demo.html)
 
 ## Demo
-[View demo](http://www.thepetedesign.com/demos/fly_sidemenu_demo.html)
+[View demo](http://peachananr.github.io/fly_sidemenu/demo/fly_sidemenu_demo.html)
 
 ## Compatibility
 Modern browsers such as Chrome, Firefox, and Safari on both desktop and smartphones have been tested. I have not tested this on IE.
